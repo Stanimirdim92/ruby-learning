@@ -1,15 +1,44 @@
-def hello
-    'hello'
+def met
+	"hello"
 end
 
-puts hello
-
-def hello2 arg1
-    arg1.to_s
+def welcome
+	met # works with puts, but adds \n
 end
 
-# puts hello2
-puts hello2('stan')
-puts hello2 'gosho'
 
+puts welcome
 
+def world(name)
+	"hello "+ name
+end
+
+puts world('stan')
+puts world 'ivan'
+
+def method2(name='stanimir')
+	"bye "+name
+end
+
+puts method2
+puts method2 'gosho'
+
+# method always have 1 return point
+def method2(a = '1', b = '2', c = 3)
+	a + b+c.to_s # wont return(skipped), single return point in ruby
+	"#{a}, #{b}, #{c}"
+end
+
+puts method2
+
+# alias methods
+
+alias asd method2
+
+def method2
+	'new redifined method2'
+end
+
+puts asd 'asd alias'
+puts method2
+puts asd
