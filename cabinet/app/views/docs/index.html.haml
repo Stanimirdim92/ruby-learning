@@ -1,0 +1,10 @@
+%h1 View All documents
+
+%p= link_to 'Add new Doc', new_doc_path
+
+= @docs.each do |doc|
+    %h2= link_to doc.title, doc
+    %p=time_ago_in_words(doc.created_at)
+    %p=truncate(doc.content, length:50)
+    %p= link_to 'Edit', edit_doc_path(doc)
+    %p= link_to 'Delete', doc_path(doc), method: :delete
