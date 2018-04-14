@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85cd8d9-f79a-41e9-8107-3522c879029c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/models/doc.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/models/doc.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -84,6 +89,7 @@
         <option value="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/models/doc.rb" />
         <option value="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" />
       </list>
     </option>
   </component>
@@ -533,12 +539,12 @@
       <updated>1523162066696</updated>
       <workItem from="1523162068452" duration="273000" />
       <workItem from="1523163662380" duration="376000" />
-      <workItem from="1523693848313" duration="4872000" />
+      <workItem from="1523693848313" duration="5120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5521000" />
+    <option name="totallyTimeSpent" value="5769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
@@ -710,6 +716,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>

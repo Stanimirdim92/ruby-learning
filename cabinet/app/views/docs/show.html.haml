@@ -1,8 +1,9 @@
-%h1= @doc.title
-%p= @doc.content
+.wrapper
+  #doc_show
+    %h1.title= @doc.title
+    %p= simple_format(@doc.content)
 
-= link_to 'View All docs', docs_path
-%br
-= link_to 'Edit doc', edit_doc_path
-%br
-= link_to 'Delete doc', doc_path(@doc), method: :delete, data: { confirm: "are you sure?" }
+    .buttons
+      = link_to 'View All docs', docs_path, class: 'button'
+      = link_to 'Edit doc', edit_doc_path, class: 'button'
+      = link_to 'Delete doc', doc_path(@doc), method: :delete, data: { confirm: "are you sure?" }, class: 'button'
