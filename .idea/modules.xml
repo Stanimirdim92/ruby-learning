@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cabinet.iml" filepath="$PROJECT_DIR$/.idea/modules/cabinet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello_app.iml" filepath="$PROJECT_DIR$/.idea/modules/hello_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ruby-learning.iml" filepath="$PROJECT_DIR$/.idea/ruby-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-chat.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-chat.iml" />
     </modules>
   </component>
 </project>

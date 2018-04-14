@@ -1,2 +1,20 @@
-<h1>Welcome#index</h1>
-<p>Find me in app/views/welcome/index.html.erb</p>
+#banner
+  .banner_content
+    %h1  File Cabinet
+    %p Your life's work, organized always
+    %button= link_to 'Enter', new_user_registration_path
+
+#callouts
+  .callout_inner
+    .wrapper
+      .callout
+        %h2 Organize
+        lorem impsum dolar sit amet
+
+
+
+#bottom_cta
+  .wrapper
+    %h2 Go Ahead
+    %br
+    %button= link_to 'New user', new_user_registration_path

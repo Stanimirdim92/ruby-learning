@@ -2,11 +2,7 @@ class DocsController < ApplicationController
   before_action :find_doc_by_id, only: %i[show edit update destroy]
 
   def index
-    if Doc.exists?(user_id: current_user)
-        @docs = Doc.where(user_id: current_user)
-    else
-        @docs = Doc.all.order('id DESC')
-    end
+    @docs = Doc.find_docs(current_user)
   end
 
   def show; end
@@ -42,7 +38,6 @@ class DocsController < ApplicationController
 
   private
 
-  # @param [Object] e
   def find_doc_by_id
     @doc = Doc.find(params[:id])
   rescue StandardError => e
