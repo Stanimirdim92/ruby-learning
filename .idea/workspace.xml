@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85cd8d9-f79a-41e9-8107-3522c879029c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,20 +38,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
+      <file leaf-file-name="edit.html.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.haml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.haml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -88,8 +110,11 @@
         <option value="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/models/doc.rb" />
-        <option value="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml" />
       </list>
     </option>
   </component>
@@ -539,12 +564,12 @@
       <updated>1523162066696</updated>
       <workItem from="1523162068452" duration="273000" />
       <workItem from="1523163662380" duration="376000" />
-      <workItem from="1523693848313" duration="5120000" />
+      <workItem from="1523693848313" duration="5419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5769000" />
+    <option name="totallyTimeSpent" value="6068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
@@ -698,13 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/app/models/doc.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -712,17 +730,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml">
+    <entry file="file://$PROJECT_DIR$/cabinet/app/models/doc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
