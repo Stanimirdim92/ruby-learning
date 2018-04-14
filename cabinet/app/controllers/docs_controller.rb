@@ -2,7 +2,11 @@ class DocsController < ApplicationController
   before_action :find_doc_by_id, only: %i[show edit update destroy]
 
   def index
-    @docs = Doc.where(user_id: current_user).order('id DESC')
+    if Doc.exists?(user_id: current_user)
+        @docs = Doc.where(user_id: current_user)
+    else
+        @docs = Doc.all.order('id DESC')
+    end
   end
 
   def show; end
