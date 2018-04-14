@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85cd8d9-f79a-41e9-8107-3522c879029c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/cabinet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cabinet.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ruby-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby-learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/application.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/welcome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cabinet/app/models/doc.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/models/doc.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,17 +23,8 @@
       <file leaf-file-name="docs_controller.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="3" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            <state relative-caret-position="240">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -53,29 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.html.haml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml">
+      <file leaf-file-name="index.html.haml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="16" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="welcome.css.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/welcome.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-670">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.css.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/application.css.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -83,7 +50,7 @@
       <file leaf-file-name="docs.css.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="705">
               <caret line="47" column="22" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="22" />
             </state>
           </provider>
@@ -111,11 +78,12 @@
         <option value="$PROJECT_DIR$/cabinet/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/cabinet/app/assets/stylesheets/welcome.scss" />
         <option value="$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb" />
-        <option value="$PROJECT_DIR$/cabinet/app/models/doc.rb" />
         <option value="$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss" />
         <option value="$PROJECT_DIR$/cabinet/app/assets/stylesheets/application.css.scss" />
-        <option value="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" />
+        <option value="$PROJECT_DIR$/cabinet/app/models/doc.rb" />
+        <option value="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" />
       </list>
     </option>
   </component>
@@ -198,6 +166,14 @@
               <item name="cabinet" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
@@ -557,12 +533,12 @@
       <updated>1523162066696</updated>
       <workItem from="1523162068452" duration="273000" />
       <workItem from="1523163662380" duration="376000" />
-      <workItem from="1523693848313" duration="3414000" />
+      <workItem from="1523693848313" duration="4872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4063000" />
+    <option name="totallyTimeSpent" value="5521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
@@ -653,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/welcome.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -681,24 +650,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/app/models/doc.rb">
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="3" lean-forward="true" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        <state relative-caret-position="240">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss">
+    <entry file="file://$PROJECT_DIR$/cabinet/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="47" column="22" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="22" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -706,13 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -725,8 +687,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" selection-start-line="15" selection-start-column="8" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="45">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/models/doc.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
