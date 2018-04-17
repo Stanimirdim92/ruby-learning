@@ -5,12 +5,318 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e85cd8d9-f79a-41e9-8107-3522c879029c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1e1fdef4-916f-4816-88d5-c7787a119fea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1e1fdef4-916f-4816-88d5-c7787a119fea.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1e1fdef4-916f-4816-88d5-c7787a119fea/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1e1fdef4-916f-4816-88d5-c7787a119fea/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/webdev.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/webdev.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/cabinet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cabinet.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/hello_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/hello_app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/simple-chat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/simple-chat.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ruby-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/const.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/const.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/gets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/gets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/hello.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/hello.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/method2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/method2.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/scopes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/scopes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/self.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/self.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/strings.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/test1.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/test1.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/assets/javascripts/comments.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/assets/javascripts/comments.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/assets/javascripts/posts.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/assets/javascripts/posts.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/assets/javascripts/users.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/assets/javascripts/users.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/assets/stylesheets/comments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/assets/stylesheets/comments.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/assets/stylesheets/posts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/assets/stylesheets/posts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/assets/stylesheets/users.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/assets/stylesheets/users.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/controllers/comments_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/controllers/comments_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/controllers/posts_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/controllers/posts_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/controllers/users_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/controllers/users_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/helpers/comments_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/helpers/comments_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/helpers/posts_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/helpers/posts_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/helpers/users_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/helpers/users_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/models/comment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/models/comment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/models/post.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/models/post.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/comments/destroy.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/comments/destroy.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/comments/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/comments/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/comments/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/comments/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/comments/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/comments/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/posts/destroy.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/posts/destroy.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/posts/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/posts/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/posts/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/posts/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/posts/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/posts/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/users/destroy.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/users/destroy.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/users/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/users/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/users/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/users/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/app/views/users/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app/views/users/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/db/migrate/20180403170311_create_users.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/db/migrate/20180403170311_create_users.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/db/migrate/20180403171650_create_comments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/db/migrate/20180403171650_create_comments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/controllers/comments_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/controllers/comments_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/controllers/posts_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/controllers/posts_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/controllers/users_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/controllers/users_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/fixtures/comments.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/fixtures/comments.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/fixtures/users.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/fixtures/users.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/models/comment_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/models/comment_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/test/models/user_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/.generators" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cabinet/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/.rakeTasks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/config/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/config/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/images/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/images/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/images/callout_backgroung.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/images/callout_backgroung.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/javascripts/cable.js" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/javascripts/cable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/javascripts/channels/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/javascripts/channels/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/javascripts/docs.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/javascripts/docs.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/javascripts/welcome.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/javascripts/welcome.coffee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/application.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/application.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/docs.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/global.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/global.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/normalize.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/normalize.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/welcome.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/assets/stylesheets/welcome.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/channels/application_cable/channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/channels/application_cable/channel.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/channels/application_cable/connection.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/channels/application_cable/connection.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/controllers/concerns/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/controllers/concerns/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/controllers/docs_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/controllers/welcome_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/controllers/welcome_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/helpers/docs_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/helpers/docs_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/helpers/welcome_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/helpers/welcome_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/jobs/application_job.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/jobs/application_job.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/mailers/application_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/mailers/application_mailer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/models/application_record.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/models/concerns/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/models/concerns/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/models/doc.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/models/doc.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/new.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/docs/show.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/layouts/application.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/layouts/mailer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/layouts/mailer.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/layouts/mailer.text.erb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/layouts/mailer.text.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/app/views/welcome/index.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/boot.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/boot.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/cable.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/cable.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/environments/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/environments/test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/application_controller_renderer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/application_controller_renderer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/assets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/backtrace_silencers.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/backtrace_silencers.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/cookies_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/cookies_serializer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/devise.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/filter_parameter_logging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/inflections.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/inflections.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/mime_types.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/mime_types.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/simple_form.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/simple_form.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/initializers/wrap_parameters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/initializers/wrap_parameters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/locales/devise.en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/locales/devise.en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/locales/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/locales/simple_form.en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/locales/simple_form.en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/puma.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/secrets.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/secrets.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/config/spring.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/config/spring.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/db/migrate/20180405190712_create_docs.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/db/migrate/20180405190712_create_docs.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/db/migrate/20180407171006_devise_create_users.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/db/migrate/20180407171006_devise_create_users.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/db/migrate/20180407172031_add_user_id_to_docs.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/db/migrate/20180407172031_add_user_id_to_docs.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/lib/assets/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/lib/assets/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/lib/tasks/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/lib/tasks/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/lib/templates/erb/scaffold/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/lib/templates/erb/scaffold/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/log/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/log/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/422.html" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/422.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/application_system_test_case.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/application_system_test_case.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/controllers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/controllers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/controllers/docs_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/controllers/docs_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/controllers/welcome_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/controllers/welcome_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/fixtures/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/fixtures/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/fixtures/docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/fixtures/docs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/fixtures/files/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/fixtures/files/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/fixtures/users.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/fixtures/users.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/helpers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/helpers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/integration/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/integration/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/mailers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/mailers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/models/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/models/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/models/doc_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/models/doc_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/models/user_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/system/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/system/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/tmp/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/tmp/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cabinet/vendor/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/cabinet/vendor/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/.ruby-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/assets/config/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/assets/config/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/assets/images/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/assets/images/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/assets/javascripts/cable.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/assets/javascripts/cable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/assets/javascripts/channels/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/assets/javascripts/channels/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/assets/stylesheets/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/channels/application_cable/channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/channels/application_cable/channel.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/channels/application_cable/connection.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/channels/application_cable/connection.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/controllers/concerns/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/controllers/concerns/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/jobs/application_job.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/jobs/application_job.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/mailers/application_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/mailers/application_mailer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/models/application_record.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/models/concerns/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/models/concerns/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/views/layouts/mailer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/views/layouts/mailer.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/app/views/layouts/mailer.text.erb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/app/views/layouts/mailer.text.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/boot.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/boot.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/cable.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/cable.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/credentials.yml.enc" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/credentials.yml.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/environments/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/environments/test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/application_controller_renderer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/application_controller_renderer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/assets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/backtrace_silencers.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/backtrace_silencers.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/content_security_policy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/content_security_policy.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/cookies_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/cookies_serializer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/filter_parameter_logging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/inflections.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/inflections.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/mime_types.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/mime_types.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/initializers/wrap_parameters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/initializers/wrap_parameters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/locales/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/puma.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/spring.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/spring.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/config/storage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/config/storage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/lib/assets/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/lib/assets/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/lib/tasks/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/lib/tasks/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/log/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/log/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/422.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/422.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/application_system_test_case.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/application_system_test_case.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/controllers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/controllers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/fixtures/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/fixtures/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/fixtures/files/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/fixtures/files/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/helpers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/helpers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/integration/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/integration/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/mailers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/mailers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/models/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/models/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/system/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/system/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/tmp/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/tmp/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_app/vendor/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/hello_app/vendor/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/.ruby-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/config/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/config/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/images/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/images/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/cable.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/cable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/channels/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/channels/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/channels/chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/javascripts/channels/chat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/assets/stylesheets/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/channels/application_cable/channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/channels/application_cable/channel.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/channels/application_cable/connection.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/channels/application_cable/connection.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/channels/chat_channel.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/channels/chat_channel.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/controllers/concerns/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/controllers/concerns/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/jobs/application_job.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/jobs/application_job.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/mailers/application_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/mailers/application_mailer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/models/application_record.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/models/application_record.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/models/concerns/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/models/concerns/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/views/home/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/views/layouts/mailer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/views/layouts/mailer.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/app/views/layouts/mailer.text.erb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/app/views/layouts/mailer.text.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/boot.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/boot.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/cable.yml" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/cable.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/credentials.yml.enc" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/credentials.yml.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/database.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/environments/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/environments/test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/application_controller_renderer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/application_controller_renderer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/assets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/backtrace_silencers.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/backtrace_silencers.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/content_security_policy.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/content_security_policy.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/cookies_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/cookies_serializer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/filter_parameter_logging.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/filter_parameter_logging.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/inflections.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/inflections.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/mime_types.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/mime_types.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/initializers/wrap_parameters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/initializers/wrap_parameters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/locales/en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/puma.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/spring.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/spring.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/config/storage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/config/storage.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/lib/assets/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/lib/assets/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/lib/tasks/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/lib/tasks/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/log/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/log/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/422.html" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/422.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/application_system_test_case.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/application_system_test_case.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/controllers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/controllers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/fixtures/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/fixtures/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/fixtures/files/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/fixtures/files/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/helpers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/helpers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/integration/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/integration/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/mailers/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/mailers/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/models/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/models/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/system/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/system/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/test/test_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/tmp/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/tmp/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-chat/vendor/.keep" beforeDir="false" afterPath="$PROJECT_DIR$/simple-chat/vendor/.keep" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,16 +327,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cabinet/config/routes.rb">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toy_app/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toy_app/app/models/user.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/toy_app/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/users_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toy_app/app/views/users/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Base</find>
+      <find>ActiveRecord</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +410,10 @@
         <option value="$PROJECT_DIR$/cabinet/app/views/docs/_form.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/views/docs/index.html.haml" />
         <option value="$PROJECT_DIR$/cabinet/app/views/docs/edit.html.haml" />
+        <option value="$PROJECT_DIR$/toy_app/Gemfile" />
+        <option value="$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/toy_app/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/toy_app/config/routes.rb" />
       </list>
     </option>
   </component>
@@ -74,6 +435,7 @@
       <path value="$PROJECT_DIR$/cabinet/package.json" />
       <path value="$PROJECT_DIR$/hello_app/package.json" />
       <path value="$PROJECT_DIR$/simple-chat/package.json" />
+      <path value="$PROJECT_DIR$/toy_app/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -99,71 +461,54 @@
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ruby-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ruby-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="cabinet" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -200,7 +545,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Rails.Development: simple-chat">
+  <component name="RunManager" selected="Rails.Development: toy_app">
     <configuration name="Development: cabinet" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
       <module name="cabinet" />
@@ -252,6 +597,29 @@
       <module name="simple-chat" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../simple-chat" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
+    <configuration name="Development: toy_app" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="toy_app" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../toy_app" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -339,6 +707,29 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
     </configuration>
+    <configuration name="Production: toy_app" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="toy_app" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../toy_app" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+    </configuration>
     <configuration name="spec: cabinet" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="cabinet" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -385,6 +776,27 @@
       <module name="simple-chat" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../simple-chat" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
+    <configuration name="spec: toy_app" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="toy_app" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../toy_app" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -474,6 +886,30 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
     </configuration>
+    <configuration name="test: toy_app" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="toy_app" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../toy_app" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+    </configuration>
     <list>
       <item itemvalue="Rake.test: cabinet" />
       <item itemvalue="Rake.spec: cabinet" />
@@ -487,6 +923,10 @@
       <item itemvalue="Rails.Development: hello_app" />
       <item itemvalue="Rails.Production: simple-chat" />
       <item itemvalue="Rails.Development: simple-chat" />
+      <item itemvalue="Rake.test: toy_app" />
+      <item itemvalue="Rake.spec: toy_app" />
+      <item itemvalue="Rails.Production: toy_app" />
+      <item itemvalue="Rails.Development: toy_app" />
     </list>
   </component>
   <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
@@ -503,12 +943,12 @@
       <workItem from="1523162068452" duration="273000" />
       <workItem from="1523163662380" duration="376000" />
       <workItem from="1523693848313" duration="6045000" />
-      <workItem from="1523990833742" duration="267000" />
+      <workItem from="1523990833742" duration="2547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6961000" />
+    <option name="totallyTimeSpent" value="9241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-14" width="1311" height="783" extended-state="6" />
@@ -521,7 +961,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16271964" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16271964" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -740,7 +1180,113 @@
     <entry file="file://$PROJECT_DIR$/cabinet/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs24/stringio.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
+          <caret line="62" column="56" lean-forward="true" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/actionpack-5.2.0/lib/action_controller/metal/strong_parameters.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/actionpack-5.2.0/lib/action_controller/metal/request_forgery_protection.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="148" column="12" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/helpers/users_helper.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/views/users/_user.json.jbuilder">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/views/users/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.6/lib/active_record/connection_adapters/postgresql/schema_definitions.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="102" column="12" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/views/users/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/views/users/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/assets/javascripts/cable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/assets/javascripts/users.coffee">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/views/users/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
