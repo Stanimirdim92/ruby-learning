@@ -3,7 +3,7 @@ def met
 end
 
 def welcome
-	met # works with puts, but adds \n
+	met # works with puts, but adds \n, also last line is the return
 end
 
 
